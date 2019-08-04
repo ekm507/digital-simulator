@@ -45,10 +45,10 @@ systems are classified as two types:
 **combinational systems** are defined as input-to-output truth tables.  
 suppose for a simple **AND** gate to be like this:
 
-'IN1	IN2	OUT
-1	1	1
-1	0	0
-0	1	0
+'IN1	IN2	OUT  
+1	1	1  
+1	0	0  
+0	1	0  
 0	0	0'
 
 so output can be defined like this:
